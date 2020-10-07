@@ -12,3 +12,4 @@ Currently Available only for windows.
  - Email: samiyal7pro@gmail.com
  - Youtube : #samiyalization
 
+Download : <a href="https://sourceforge.net/projects/infifly/files/latest/download"><img alt="Download InfiFly 3D " src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
